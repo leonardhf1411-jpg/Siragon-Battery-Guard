@@ -1,0 +1,4 @@
+*.old.exe
+settings.json
+*.pdb
+*.log
